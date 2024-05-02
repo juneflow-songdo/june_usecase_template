@@ -1,7 +1,7 @@
 name: june_usecase_template
-description: "UseCase Template for JuneFlow."
+description: "UseCase Template in June Architecture."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/june_usecase_template
 
 version: 1.0.0
 
