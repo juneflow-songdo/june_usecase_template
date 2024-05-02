@@ -1,0 +1,24 @@
+name: june_usecase_template
+description: "UseCase Template for JuneFlow."
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/juneflow
+
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router:
+  june_flow_util:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/module/june_usecase_template/
+  uses-material-design: true
